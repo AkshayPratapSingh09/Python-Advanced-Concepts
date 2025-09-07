@@ -1,0 +1,5 @@
+def mainDecorator():
+    return
+
+
+@mainDecorator
